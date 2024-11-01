@@ -1,3 +1,4 @@
+import {NextUIProvider} from "@nextui-org/react";
 import './App.css'
 
 function App() {
@@ -5,7 +6,9 @@ function App() {
 
   return (
     <>
-     
+     <NextUIProvider>
+      
+    </NextUIProvider>
         
     </>
   )
