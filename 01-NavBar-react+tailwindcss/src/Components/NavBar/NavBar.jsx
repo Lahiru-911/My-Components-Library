@@ -42,7 +42,7 @@ const NavBar = () => {
         <NavbarBrand>
           <Link href="/" passHref>
             <img
-              src="https://www.svgrepo.com/show/494331/apple-round.svg"
+              src="https://www.svgrepo.com/show/475695/windowsphone-color.svg"
               alt="Residue Logo"
               className="h-5 cursor-pointer"
             />

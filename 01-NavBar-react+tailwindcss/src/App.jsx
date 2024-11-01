@@ -1,6 +1,6 @@
-import { NextUIProvider } from "@nextui-org/react";
 import "./App.css";
-import NavBar from "./Components/NavBar";
+import NavBar from "./Components/NavBar/NavBar";
+import { NextUIProvider } from "@nextui-org/react";
 
 function App() {
   return (
