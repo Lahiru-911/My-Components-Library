@@ -8,7 +8,6 @@ function App() {
       <NextUIProvider>
         <div className="bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 h-[2048px]">
           <NavBar />
-          {/* Other content can go here */}
         </div>
       </NextUIProvider>
     </>
