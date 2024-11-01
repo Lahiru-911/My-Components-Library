@@ -42,7 +42,7 @@ const NavBar = () => {
         <NavbarBrand>
           <Link href="/" passHref>
             <img
-              src="https://placehold.co/600x400"
+              src="https://www.svgrepo.com/show/494331/apple-round.svg"
               alt="Residue Logo"
               className="h-5 cursor-pointer"
             />
@@ -54,7 +54,7 @@ const NavBar = () => {
       <NavbarBrand className="hidden sm:flex">
         <Link href="/" passHref>
           <img
-            src="https://placehold.co/600x400"
+            src="https://www.svgrepo.com/show/475695/windowsphone-color.svg"
             alt="Residue Logo"
             className="h-5 sm:h-4 md:h-5 lg:h-7 xl:h-8 cursor-pointer"
           />
