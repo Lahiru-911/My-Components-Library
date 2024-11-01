@@ -37,12 +37,12 @@ const NavBar = () => {
         />
       </NavbarContent>
 
-      {/* Residue Logo for Mobile */}
+      {/*Logo for Mobile */}
       <NavbarContent className="sm:hidden pr-6" justify="center">
         <NavbarBrand>
           <Link href="/" passHref>
             <img
-              src="../../../public/img/rrr.png"
+              src="https://placehold.co/600x400"
               alt="Residue Logo"
               className="h-5 cursor-pointer"
             />
@@ -50,11 +50,11 @@ const NavBar = () => {
         </NavbarBrand>
       </NavbarContent>
 
-      {/* Residue Logo for Desktop */}
+      {/*Logo for Desktop */}
       <NavbarBrand className="hidden sm:flex">
         <Link href="/" passHref>
           <img
-            src="../../../public/img/rrr.png"
+            src="https://placehold.co/600x400"
             alt="Residue Logo"
             className="h-5 sm:h-4 md:h-5 lg:h-7 xl:h-8 cursor-pointer"
           />
