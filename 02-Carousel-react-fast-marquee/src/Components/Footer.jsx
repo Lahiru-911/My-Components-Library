@@ -1,12 +1,16 @@
-import FooterCarousel from './FooterCarousel';
-import FooterContent from './FooterContent';
+import FooterCarousel from "./FooterCarousel";
+import FooterContent from "./FooterContent";
 
-const Footer = ({ showCarousel = true, showContent = true }) => {
+const Footer = () => {
   return (
-    <footer>
-      {showCarousel && <FooterCarousel />}
-      {showContent && <FooterContent />}
-    </footer>
+    <div className="min-h-screen flex flex-col">
+      <div className="">
+        <FooterCarousel />
+      </div>
+      <div className="bg-[#E6F2FF] flex-grow ">
+        <FooterContent />
+      </div>
+    </div>
   );
 };
 
