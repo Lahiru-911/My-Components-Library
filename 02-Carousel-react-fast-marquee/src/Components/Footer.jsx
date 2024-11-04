@@ -1,12 +1,13 @@
-import FooterCarousel from "./FooterCarousel";
+import FooterCarousel from './FooterCarousel';
+import FooterContent from './FooterContent';
 
-
-const Footer = () => {
+const Footer = ({ showCarousel = true, showContent = true }) => {
   return (
-    <div>
-        <FooterCarousel/>
-    </div>
-  )
-}
+    <footer>
+      {showCarousel && <FooterCarousel />}
+      {showContent && <FooterContent />}
+    </footer>
+  );
+};
 
 export default Footer;
