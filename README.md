@@ -1,3 +1,3 @@
-# NavBar-Components
+# My-Components-Library
 
-A collection of responsive and customizable Navbar components built with clean, modern code. Easily integrate and adapt for various web projects.
+A customizable UI components library for quick integration, responsive design, and consistent user experience across web applications.
