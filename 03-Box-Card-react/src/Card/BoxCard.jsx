@@ -1,7 +1,7 @@
 const BoxCard = () => {
   return (
     <>
-      <h1 className="m-3 p-1 font-bold uppercase text-transparent bg-clip-text bg-gradient-to-r from-[#56CCF2] to-[#0081FB] text-5xl sm:text-5xl md:text-6xl lg:text-8xl xl:text-[120px] 2xl:text-[140px] leading-none">
+      <h1 className="text-center m-3 p-1 font-bold uppercase text-transparent bg-clip-text bg-gradient-to-r from-[#56CCF2] to-[#0081FB] text-5xl sm:text-5xl md:text-6xl lg:text-8xl xl:text-[120px] 2xl:text-[140px] leading-none">
         Box Cards
       </h1>
       <div className="grid grid-cols-3 gap-10 m-5">
