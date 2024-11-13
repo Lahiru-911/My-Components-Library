@@ -1,9 +1,5 @@
-import React from 'react'
+const BoxCard = () => {
+  return <div>BoxCard</div>;
+};
 
-function BoxCard() {
-  return (
-    <div>BoxCard</div>
-  )
-}
-
-export default BoxCard
+export default BoxCard;
