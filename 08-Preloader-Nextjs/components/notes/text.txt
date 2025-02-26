@@ -1,0 +1,5 @@
+Sass for the stylesheets: npm i sass
+
+Framer Motion for animations: npm i framer-motion
+
+Locomotive Scroll for smooth scroll: npm i npm install locomotive-scroll@beta
