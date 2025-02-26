@@ -1,0 +1,5 @@
+We will use Framer Motion for the animation, so we can run "npm i framer-motion"
+
+
+
+We will use the Lenis Scroll for the smooth scrolling, so we can run "npm i lenis"
