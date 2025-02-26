@@ -1,0 +1,1 @@
+We will use the Lenis Scroll for the smooth scrolling, so we can run   npm i lenis
