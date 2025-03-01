@@ -1,2 +1,0 @@
-We will use Sass for the stylesheets, so we can run  " npm i sass "
-We will use Framer Motion for the animation, so we can run npm i " framer-motion "
